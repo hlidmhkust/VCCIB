@@ -4,5 +4,10 @@ Code for GLOBECOM Paper [Task-Oriented Communication with Out-of-Distribution De
 
 Author: Hongru Li, Wentao Yu, Hengtao He, Jiawei Shao, Shenghui Song, Jun Zhang, Khaled B. Letaief
 
+Email: <a href="mailto:hlidm@connect.ust.hk">hlidm@connect.ust.hk</a>
+
+
 Will add more annotation for reference.
+
+
 
