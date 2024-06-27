@@ -9,6 +9,7 @@ Email: <a href="mailto:hlidm@connect.ust.hk">hlidm@connect.ust.hk</a>(Hongru LI)
 
 Will add more annotation for reference once the [journal version](https://arxiv.org/abs/2405.09514) is accepted.
 
+If this repo or the paper can help you, I would appreciate any star for this repo and citation for our paper.
 
 # Citation
 Journal
